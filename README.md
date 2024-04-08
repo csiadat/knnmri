@@ -1,0 +1,1 @@
+This project involves using the KNN classification algorithm on [cross-sectional MRI data]([url](https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers)) provided by the Open Access Series of Imaging Studies (OASIS), which provides multiple neuroimaging datasets to the public to allow researchers and scientists to learn and make discoveries in neuroscience. 
